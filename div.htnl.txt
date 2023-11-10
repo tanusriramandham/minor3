@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>wepage 1</title>
+</head>
+<style>
+.use{
+  text-align: center;
+background-color:green;
+}
+.us
+{text-align: center;
+background-color:yellow;
+}
+.us1
+{text-align: left;
+background-color:orange;
+}
+.us2{
+text-align: center;
+background-color:blue;
+}
+.us3{
+background-color:green;
+}
+</style>
+<body>
+<div class="use">
+<h1>hello ap </h1>
+<h2>hello ts</h2>
+<p>i am not the whisky you want<br> i am the watre you need</p>
+</div>
+<div class="us">
+<form action="https://www.w3schools.com/html/html_css.asp">
+student name:<input type="text" minlength="3" maxlength="9" required><br>
+college name:<input type="text" minlength="3" maxlength="9" required><br>
+branch name:<input type="text" minlength="3" maxlength="9" required><br>
+students:<input type="number" minlength="3" maxlength="9" required><br>
+student mail id:<input type="email"  required><br>
+gender<br>
+male:<input type="radio" name="gender" value="male"> male<br>
+female:<input type="radio" name="gender" value="male"> male<br>
+<input type="submit">
+</form>
+</div>
+<div class="us1">
+<marquee>
+<dl>
+<dt>html
+<dd> it is a markup language
+<dt>css
+<dd> cacading style sheets
+</dl>
+</marquee>
+</div>
+<div class="us2">
+<marquee>
+<img src="C:\Users\exam2\Downloads\pexels-roberto-nickson-2486168.jpg" alt="u selected clg" width="300" height="200"></img>
+<img src=""https://media.istockphoto.com/id/825383494/photo/business-man-pushing-large-stone-up-to-hill-business-heavy-tasks-and-problems-concept.jpg?s=1024x1024&w=is&k=20&c=bA5Epw0vCEHPyOGHYzgcdg9gnhHHI4LsiJwHkPBbTRY="" alt="u selected clg" width="300" height="200"></img>
+</marquee>
+</div>
+<div class="us3">
+<img  align="left"src="C:\Users\exam2\Pictures\Saved Pictures\r123.jpg" alt="u selected clg" width="300" height="200"></img>
+<img align="right" src="https://media.istockphoto.com/id/825383494/photo/business-man-pushing-large-stone-up-to-hill-business-heavy-tasks-and-problems-concept.jpg?s=1024x1024&w=is&k=20&c=bA5Epw0vCEHPyOGHYzgcdg9gnhHHI4LsiJwHkPBbTRY=" alt="u selected clg" width="300" height="200"></img>
+</div>
+</body>
+<html>
